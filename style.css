@@ -1,0 +1,166 @@
+header {
+  height: auto;
+  width: 960px;
+  align-items: center;
+  font-family: "Lora", serif;
+}
+.container {
+  width: 960px;
+  margin: 0 auto;
+  background-color: #fff;
+  overflow: hidden;
+}
+.header-right {
+  width: 50%;
+  align-items: right;
+}
+.text-border {
+  background-color: #dc6060;
+  height: 90px;
+  width: 4px;
+  display: flex;
+  margin-top: 145px;
+  float: left;
+}
+.header-left {
+  width: 480;
+  float: left;
+}
+
+.header-left h1 {
+  color: black;
+  margin-top: 130px;
+  font-size: 50px;
+  margin-left: 17px;
+}
+.header-left p {
+  width: 360px;
+  text-align: justify;
+}
+button {
+  height: 35px;
+  width: 135px;
+  background-color: #dc6060;
+  border: none;
+}
+.header-right {
+  width: 480px;
+  float: left;
+}
+.header-right img {
+  margin-top: 35px;
+  width: 350px;
+  margin-left: 234px;
+}
+#content-1 {
+  width: 960px;
+  height: auto;
+  float: left;
+  font-family: "Lora", serif;
+}
+#content-1 h1 {
+  font-size: 45px;
+  margin-left: 290px;
+  margin-top: 65px;
+}
+.h1 {
+  width: 960px;
+  height: 115px;
+}
+
+#content-1 .round-box {
+  width: 300px;
+  background-color: #eff4f6;
+  height: 380px;
+  float: left;
+  margin-right: 15px;
+  border-radius: 15px;
+}
+
+#content-1 img {
+  width: 106px;
+  padding-top: 23px;
+  padding-left: 15px;
+}
+#content-1 h3 {
+  margin-left: 15px;
+  font-size: 22px;
+}
+#content-1 p {
+  margin-left: 15px;
+  text-align: left;
+  font-size: 16px;
+}
+#content-2 img {
+  width: 362px;
+  margin-top: 80px;
+  float: left;
+}
+#content-2 h2 {
+  width: 385px;
+  height: 48px;
+  float: right;
+  margin-right: 60px;
+  margin-top: 157px;
+}
+#content-2 {
+  float: right;
+}
+#content-2 button {
+  height: 43px;
+  width: 201px;
+  background-color: #dc6060;
+  border: none;
+  float: right;
+  margin-right: 242px;
+}
+#content-2 p {
+  float: right;
+  width: 400px;
+  margin-right: 43px;
+}
+#content-3 img {
+  width: 362px;
+  margin-top: -160px;
+  float: right;
+}
+
+#content-3 h2 {
+  width: 385px;
+  height: 48px;
+  float: left;
+  margin-right: 60px;
+  margin-top: 157px;
+}
+
+#content-3 button {
+  height: 43px;
+  width: 201px;
+  background-color: #dc6060;
+  border: none;
+  float: left;
+  margin-right: 242px;
+  border-radius: 5px;
+}
+
+#content-3 p {
+  float: left;
+  width: 540px;
+}
+footer {
+  background-color: black;
+  margin-top: 50px;
+  width: 960px;
+  margin: 0 auto;
+  height: 100px;
+}
+footer h1 {
+  text-align: center;
+  color: white;
+  font-family: "Lora", serif;
+}
+footer p {
+  color: white;
+  text-align: center;
+  margin-top: -20px;
+}
